@@ -27,5 +27,9 @@ public:
 };
 
 int main(){
-    
+    Mobil BMW;
+    BMW.input_data();
+    cout << "Nama mobil =" << BMW.nama_mobil << endl;
+    cout << "Tipe  mobil =" << BMW.tipe_mobil << endl;
+    BMW.output_data();
 }
