@@ -25,3 +25,7 @@ public:
         luas = panjang * lebar;
     }
 };
+
+int main(){
+    
+}
