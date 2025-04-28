@@ -27,5 +27,8 @@ public:
 };
 
 int main(){
-    
+    persegi_panjang pp;
+    pp.input_data();
+    pp.hitung_luas();
+    pp.output_data();
 }
